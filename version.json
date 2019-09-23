@@ -1,3 +1,18 @@
-<site value="com.th.abc">
-  <version>10</version>
-</site>
+{
+"com.th.abc":
+	{   
+		"version_code":1,
+		"version_name":"1.0",
+		"author":"Tuan V. Huynh",
+		"pub_date":"2019-05-05 00:48:39 Etc\/GMT"
+	},
+	
+"com.th.xzy":
+	{   
+		"version_code":11,
+		"version_name":"11.0",
+		"author":"Tuan V. Huynh",
+		"pub_date":"2019-05-05 00:48:39 Etc\/GMT"
+	}
+	
+}
